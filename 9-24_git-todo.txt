@@ -1,0 +1,3 @@
+there are not files on github because the git commands we just ran were to the local git repo.
+we'd need to push to github in order to get the files there.
+we didn't add a remote repo and we didn't push the local repo up.
